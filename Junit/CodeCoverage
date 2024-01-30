@@ -1,0 +1,23 @@
+Code Coverage, as the name suggests, is all about measuring how well your tests cover your code. 
+In other words, it describes the degree to which the coding of an application has been tested when a particular test suite runs. 
+It is considered one of the forms of White Box Testing and is usually performed by Developers during Unit Testing.
+
+>We use three primary terms to describe each line executed.
+
+1)hit indicates that the source code was executed by the test suite.
+2)partial indicates that the source code was not fully executed by the test suite; there are remaining branches that were not executed.
+3)miss indicates that the source code was not executed by the test suite.
+
+How is Code Coverage measured?
+It can be calculated using the formula:
+
+Code Coverage Percentage = (Number of lines of code executed)/(Total Number of lines of code in an application) * 100.
+
+Why is Code Coverage important?
+Code Coverage is essential because it:
+
+Helps in maintaining the code base while also letting any features be added later with little-to-no-efforts.
+Helps in exposing bad, dead, and unused codes. Thereby maintaining the product quality.
+Helps in finishing the software development process faster, thus, helping in increasing productivity and efficiency.
+Helps companies to launch more software applications in the market in lesser time.
+Helps to increase customer satisfaction 
