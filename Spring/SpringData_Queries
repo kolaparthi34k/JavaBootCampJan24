@@ -1,0 +1,11 @@
+create table zeta (
+id serial not null primary key,
+first_name varchar(20) not null,
+last_name varchar(20) not null,
+age integer not null
+);
+
+insert into zeta (id, first_name, last_name, age) values
+(1, 'Ayush', 'B', 21),
+(2,'RAviTeja', ' a', 30),
+(3,'Abhi', ' V', 32);
